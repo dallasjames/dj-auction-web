@@ -1,0 +1,34 @@
+
+body {
+  margin: 0;
+  width: 100%;
+  background-color: $color-white;
+  @include font-default;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h5 {
+  @include font-bold;
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+hr {
+  margin: 0;
+  background-color: $color-black;
+}
+
+strong {
+  @include font-bold;
+}
+
+.page {
+  min-height: calc(100vh - 100px);
+}

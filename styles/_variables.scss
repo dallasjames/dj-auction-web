@@ -1,0 +1,54 @@
+// Breakpoints
+$breakpoint-xs: 0;
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+$breakpoint-xxl: 1400px;
+$breakpoint-max: 1600px;
+
+// Misc
+$site-max-width: 1300px;
+
+// Colors
+$color-black: #000;
+$color-white: #fff;
+$color-primary: #219DC0;
+$color-secondary: #ff8402;
+$color-success: #90a93e;
+$color-danger: #d31145;
+$color-warning: #ffc83f;
+
+$color-text-default: #222;
+$color-text-gray: #989898;
+$color-text-gray-light: #bbbdbf;
+
+$color-background-offwhite: #f6f8fb;
+$color-background-gray-light: #e3e5e8;
+$color-background-gray-dark: #444;
+
+$color-border-lightgray: #eaeaea;
+
+// Form Colors
+$color-form-background-color: $color-white;
+$color-form-text: $color-text-default;
+$color-formfield-background-color: #e3e5e8;
+$color-formfield-background-color-active: darken(#e3e5e8, 5%);
+$color-formfield-placeholder-text: lighten($color-form-text, 60%);
+$formfield-margin-bottom: 20px;
+
+// Social
+$color-social-facebook: #3b5998;
+$color-social-instagram: #C13584;
+$color-social-twitter: #1DA1F2;
+
+// z-index
+$z-index-header: 1000;
+$z-index-nav: 1001;
+$z-index-nav-btn: 1002;
+$z-index-modal: 1100;
+$z-index-preloader: 1200;
+$z-index-loader: 900;
+
+// Fonts
+$font-default: 16px;

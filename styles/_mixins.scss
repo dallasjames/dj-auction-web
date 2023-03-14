@@ -1,0 +1,64 @@
+// sass-lint:disable space-around-operator
+
+@mixin font-default {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+}
+@mixin font-bold {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+
+
+@mixin respond-to($breakpoint) {
+  @if $breakpoint == "sm" {
+    @media only screen and (min-width: $breakpoint-sm) {
+      @content;
+    }
+  }
+  @else if $breakpoint == "md" or $breakpoint == "tablet" {
+    @media only screen and (min-width: $breakpoint-md) {
+      @content;
+    }
+  }
+  @else if $breakpoint == "lg" or $breakpoint == "desktop" {
+    @media only screen and (min-width: $breakpoint-lg) {
+      @content;
+    }
+  }
+  @else if $breakpoint == "xl" or $breakpoint == "large-desktop" {
+    @media only screen and (min-width: $breakpoint-xl) {
+      @content;
+    }
+  }
+  @else if $breakpoint == "xxl" or $breakpoint == "xlarge-desktop" {
+    @media only screen and (min-width: $breakpoint-xxl) {
+      @content;
+    }
+  }
+  @else if $breakpoint == "mobile-only" {
+    @media only screen and (max-width: $breakpoint-md - 1) {
+      @content;
+    }
+  } @else if $breakpoint == "tablet-only" {
+    @media only screen and (min-width: $breakpoint-md) and (max-width: $breakpoint-lg - 1) {
+      @content;
+    }
+  }
+}
+
+@mixin overflow-ellipsis-lines($lines) {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: $lines;
+  line-clamp: $lines;
+  -webkit-box-orient: vertical;
+  box-orient: vertical;
+}
+
+@mixin section-generic {
+  position: relative;
+  width: calc(100% - 40px);
+  padding: 20px;
+}
