@@ -2,13 +2,14 @@ import React from 'react'
 
 export default function AuctionCard(props) {
   const {
+    proxyBidLink,
     image,
     title,
     description,
   } = props.auction;
 
   return (
-    <div className="AuctionCard">
+    <a href={proxyBidLink} target="_blank" className="AuctionCard">
       <img src={image.src} alt={image.alt} />
       <div className="title">{title}</div>
       <div className="description">{description}</div>
@@ -16,9 +17,11 @@ export default function AuctionCard(props) {
       <style global jsx>{`
         @import 'styles/components.scss';
 
-        div.AuctionCard {
+        a.AuctionCard {
           width: 100%;
           margin-bottom: 20px;
+          color: black;
+          text-decoration: none;
 
           @include respond-to('md') {
             width: calc(33% - 20px);
@@ -44,6 +47,6 @@ export default function AuctionCard(props) {
           }
         }
       `}</style>
-    </div>
+    </a>
   )
 }

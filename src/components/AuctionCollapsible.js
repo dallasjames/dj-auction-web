@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef } from 'react'
 import Collapsible from 'src/utils/Collapsible'
-import AuctionMap from '../common/AuctionMap'
+import AuctionMap from './common/AuctionMap'
 
 export default function AuctionCollapsible(props) {
   const {
@@ -14,8 +14,8 @@ export default function AuctionCollapsible(props) {
   return (
     <section className="AuctionCollapsible">
       <div className="inner">
-        <div className="title-container">
-          <h2 onClick={() => onOpen(keyname)} dangerouslySetInnerHTML={{__html: title}}></h2>
+        <div className="title-container" onClick={() => onOpen(keyname)}>
+          <h3 dangerouslySetInnerHTML={{__html: title}}></h3>
           <img className={open ? 'open' : ''} src='/images/auctions/arrow.svg' alt='arrow' />
         </div>
         <Collapsible active={open}>
@@ -37,10 +37,14 @@ export default function AuctionCollapsible(props) {
               display: flex;
               align-items: center;
 
-              h2 {
+              h3 {
                 @include font-bold;
-                font-size: 40px;
+                font-size: 28px;
                 color: $color-black;
+
+                @include respond-to('md') {
+                  font-size: 40px;
+                }
               }
 
               img {

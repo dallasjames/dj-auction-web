@@ -1,11 +1,24 @@
 import React, { useState } from 'react'
-import HomePage from 'src/components/HomeBlocks/HomePage'
+import AuctionCollapsible from 'src/components/AuctionCollapsible'
+import Hero from 'src/components/Hero'
+import Meta from 'src/components/Meta'
 
 export default function Home() {
   const [openSection, setOpenSection] = useState('current')
   let propList = {
+    meta: {
+      title: 'DJ\'s Auction House',
+      description: 'DJ\'s Auction House is selling everything you could possibly need or want! Get in quick to see our latest items!',
+      image: {
+        src: '/images/home/hero.jpg',
+        alt: 'Hero',
+        width: 589,
+        height: 295,
+      },
+    },
     hero: {
-      title: `DJ's<br/>Auctions`
+      title: `DJ's Auction House`,
+      backgroundImage: '/images/hero/hero.jpg',
     },
     AuctionSections: [
       {
@@ -19,6 +32,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -28,6 +42,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -37,6 +52,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -46,6 +62,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -55,6 +72,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -64,6 +82,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
         ],
         onOpen: onOpen,
@@ -81,6 +100,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -90,6 +110,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -99,6 +120,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -108,6 +130,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -117,6 +140,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -126,6 +150,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
         ],
         onOpen: onOpen,
@@ -143,6 +168,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -152,6 +178,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -161,6 +188,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -170,6 +198,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -179,6 +208,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
           {
             image: {
@@ -188,6 +218,7 @@ export default function Home() {
             title: 'Thing',
             description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
             proxyBidLink: '#',
+            category: 'misc',
           },
         ],
         onOpen: onOpen,
@@ -208,7 +239,13 @@ export default function Home() {
 
   return (
     <div>
-      <HomePage propList={propList} />
+      <Meta {...propList.meta} />
+      <Hero {...propList.hero}/>
+      {propList.AuctionSections.map((section, index) => {
+        return (
+          <AuctionCollapsible key={'section-'+index} {...section} />
+        )
+      })}
     </div>
   )
 }

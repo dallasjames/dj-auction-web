@@ -8,6 +8,7 @@ Hero.defaultProps = {
 export default function Hero(props) {
   const {
     title,
+    backgroundImage,
   } = props;
 
   return (
@@ -22,25 +23,35 @@ export default function Hero(props) {
         section.Hero {
           @include section-generic;
           height: 400px;
-          background-image: url('/images/hero/hero.jpg');
+          background-image: url('${backgroundImage}');
           background-repeat: no-repeat;
           background-position: center center;
           background-size: cover;
 
           .inner {
+            position: relative;
             width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
 
             h1 {
-              width: 100%;
+              position: absolute;
+              top: calc(50% - 120px);
+              bottom: calc(50% - 120px);
+              width: 310px;
               @include font-bold;
               font-size: 70px;
               color: $color-white;
               text-align: center;
-              -webkit-text-stroke: $color-black;
-              -webkit-text-stroke-width: 2px;
+              filter: drop-shadow(6px 6px 2px #000000);
 
               @include respond-to('md') {
-                text-align: left;
+                top: calc(50% - 40px);
+                bottom: calc(50% - 40px);
+                width: 100%;
               }
             }
           }
