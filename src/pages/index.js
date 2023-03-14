@@ -1,8 +1,5 @@
-import Hero from '../components/Hero'
-import CurrentAuctions from 'src/components/CurrentAuctions'
-import PastAuctions from 'src/components/PastAuctions'
-import UpcomingAuctions from 'src/components/UpcomingAuctions'
-import { useState } from 'react'
+import React, { useState } from 'react'
+import HomePage from 'src/components/HomeBlocks/HomePage'
 
 export default function Home() {
   const [openSection, setOpenSection] = useState('current')
@@ -10,189 +7,194 @@ export default function Home() {
     hero: {
       title: `DJ's<br/>Auctions`
     },
-    currentAuctions: {
-      title: 'Current Auctions',
-      auctions: [
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+    AuctionSections: [
+      {
+        title: 'Current Auctions',
+        auctions: [
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-      ],
-      onOpen: onOpen,
-      open: openSection === 'current',
-    },
-    pastAuctions: {
-      title: 'Past Auctions',
-      auctions: [
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+        ],
+        onOpen: onOpen,
+        open: openSection === 'current',
+        keyname: 'current',
+      }, // current auctions
+      {
+        title: 'Past Auctions',
+        auctions: [
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-      ],
-      onOpen: onOpen,
-      open: openSection === 'past',
-    },
-    upcomingAuctions: {
-      title: 'Upcoming Auctions',
-      auctions: [
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+        ],
+        onOpen: onOpen,
+        open: openSection === 'past',
+        keyname: 'past',
+      }, // past auctions
+      {
+        title: 'Upcoming Auctions',
+        auctions: [
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-        {
-          image: {
-            src: '/images/current-auctions/auction-1.jpg',
-            alt: 'auction item alt',
+          {
+            image: {
+              src: '/images/current-auctions/auction-1.jpg',
+              alt: 'auction item alt',
+            },
+            title: 'Thing',
+            description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
+            proxyBidLink: '#',
           },
-          title: 'Thing',
-          description: `This is a title desccription that will be put on a limit of 2 lines at most because its not all that hard and now im making this really long so that it will cut off and i can make sure it works`,
-          proxyBidLink: '#',
-        },
-      ],
-      onOpen: onOpen,
-      open: openSection === 'future',
-    },
+        ],
+        onOpen: onOpen,
+        open: openSection === 'future',
+        keyname: 'future',
+      }, // future auctions
+    ]
   }
 
   function onOpen(label) {
@@ -206,10 +208,7 @@ export default function Home() {
 
   return (
     <div>
-      <Hero {...propList.hero}/>
-      <CurrentAuctions {...propList.currentAuctions} />
-      <PastAuctions {...propList.pastAuctions} />
-      <UpcomingAuctions {...propList.upcomingAuctions} />
+      <HomePage propList={propList} />
     </div>
   )
 }
