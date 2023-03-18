@@ -1,6 +1,12 @@
 import React from 'react'
 import Head from 'next/head'
 
+Meta.defaultProps = {
+  title: '',
+  description: '',
+  image: {},
+};
+
 export default function Meta(props) {
   const {
     title,

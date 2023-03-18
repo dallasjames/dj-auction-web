@@ -2,9 +2,11 @@ import React, { useState } from 'react'
 import AuctionCollapsible from 'src/components/AuctionCollapsible'
 import Hero from 'src/components/Hero'
 import Meta from 'src/components/Meta'
+import Nav from 'src/components/Nav'
 
 export default function Home() {
   const [openSection, setOpenSection] = useState('current')
+
   let propList = {
     meta: {
       title: 'DJ\'s Auction House',

@@ -2,7 +2,8 @@ import React, { useEffect, useState, useRef } from 'react'
 
 
 Hero.defaultProps = {
-  title: `DJ's<br/>Auctions`
+  title: ``,
+  backgroundImage: '',
 };
 
 export default function Hero(props) {

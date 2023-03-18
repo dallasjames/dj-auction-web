@@ -2,6 +2,14 @@ import React, { useEffect, useState, useRef } from 'react'
 import Collapsible from 'src/utils/Collapsible'
 import AuctionMap from './common/AuctionMap'
 
+AuctionCollapsible.defaultProps = {
+  title: ``,
+  auctions: [],
+  open: false,
+  onOpen: () => {},
+  keyname: ''
+};
+
 export default function AuctionCollapsible(props) {
   const {
     title,
