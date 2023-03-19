@@ -40,33 +40,36 @@ export default function Nav(props) {
         $link-length: ${linkLength};
 
         nav.Nav {
+          @include section-generic;
           background-color: $color-white;
 
           .inner {
-            @include section-generic;
 
             ul {
-              wwidth: 100%;
+              width: 100%;
               margin: 0;
               padding: 0;
               display: flex;
               flex-wrap: wrap;
-              justify-content: space-between;
+              justify-content: flex-start;
               list-style: none;
 
               li {
-                width: 100%;
-                margin: 0;
-                padding: 10px 0;
+                width: calc(100% / $link-length - 20px);
+                border: 2px solid $color-black;
+                margin: 0 auto;
+                background-color: $color-white;
+                padding: 0;
                 text-align: center;
-                
-                @include respond-to('md') {
-                  width: calc(100% / $link-length);
-                }
 
                 a {
+                  display: block;
+                  width: 100%;
+                  height: 100%;
+                  margin: 0;
+                  padding: 0;
                   @include font-default;
-                  font-size:20px;
+                  font-size: 20px;
                   color: $color-black;
                   text-decoration: none;
                 }

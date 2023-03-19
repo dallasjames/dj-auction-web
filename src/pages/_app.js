@@ -6,24 +6,12 @@ export default function App({ Component, pageProps }) {
   const live = false;
   let links = [
     {
+      label: 'Home',
+      href: '/',
+    },
+    {
       label: 'About Us',
       href: '/about',
-    },
-    {
-      label: 'category2',
-      href: '/category2',
-    },
-    {
-      label: 'category3',
-      href: '/category3',
-    },
-    {
-      label: 'category4',
-      href: '/category4',
-    },
-    {
-      label: 'category5',
-      href: '/category5',
     },
   ];
   const navProps = {
