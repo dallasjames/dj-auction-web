@@ -19,13 +19,18 @@ export default function AuctionCollapsible(props) {
     keyname,
   } = props;
 
+  function onClick(e) {
+    if (e) e.preventDefault();
+    onOpen(keyname);
+  }
+
   return (
     <section className="AuctionCollapsible">
       <div className="inner">
-        <div className="title-container" onClick={() => onOpen(keyname)}>
+        <a href='#' className="title-container" onClick={onClick}>
           <h3 dangerouslySetInnerHTML={{__html: title}}></h3>
           <img className={open ? 'open' : ''} src='/images/auctions/arrow.svg' alt='arrow' />
-        </div>
+        </a>
         <Collapsible active={open}>
           <AuctionMap auctions={auctions} keyname={keyname}/>
         </Collapsible>
@@ -44,6 +49,7 @@ export default function AuctionCollapsible(props) {
               margin-bottom: 20px;
               display: flex;
               align-items: center;
+              text-decoration: none;
 
               h3 {
                 @include font-bold;

@@ -1,12 +1,9 @@
 import React, { useState } from 'react'
-import AuctionCollapsible from 'src/components/AuctionCollapsible'
 import Hero from 'src/components/Hero'
 import Meta from 'src/components/Meta'
-import Nav from 'src/components/Nav'
 import TitleAndCopy from 'src/components/TitleAndCopy'
 
 export default function Home() {
-  const [openSection, setOpenSection] = useState('current')
 
   let propList = {
     meta: {
@@ -25,7 +22,7 @@ export default function Home() {
     },
     copy: {
       title: 'How it all started',
-      copy: `I am a dude that is auctioning stuff that buy. There is a lot of 
+      copy: `I am a dude that is auctioning stuff off that I buy. There is a lot of 
       video tapes and hot wheels and I'll probably buy other stuff. I don't 
       know what else to put in here the web developer told me to put a lot of 
       stuff in here for something called SEO. I don't even know what that is 
@@ -33,7 +30,7 @@ export default function Home() {
       becuase that would be funny as hell. He said something about a blog too.
       I don't think I have enough stuff to say for a blog but I don't know. 
       Maybe I could rip something off from someone else's blog I mean who's
-      out there copyrighting a blog. It's gotta be the last ggreat thing you
+      out there copyrighting a blog. It's gotta be the last great thing you
       can steal from someone else right? Anyway this is dumb and I want to go
       to bed so stick around and bid on some stuff. All the links should take
       you to a site called Proxibid and you can bid on it there.`
@@ -48,3 +45,14 @@ export default function Home() {
     </div>
   )
 }
+
+
+// 7 to 14 days avg auction
+
+// payment terms of sale and shipping instructions
+
+// check the box for saving terms and conditions
+
+// internet preimuim fill out
+
+// always stager end times

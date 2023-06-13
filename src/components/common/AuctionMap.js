@@ -17,7 +17,7 @@ export default function AuctionMap(props) {
         div.AuctionMap {
           display: flex;
           flex-wrap: wrap;
-          align-items: flex-start;
+          align-items: stretch;
           justify-content: flex-start;
         }
       `}</style>
