@@ -29,6 +29,7 @@ export default function uploadCSV() {
     for (let i = 0; i < newParsed.length; i++) {
       let item = newParsed[i];
       item["image"] = `/images/${imageFolderName}/${item["Lot Number"]}.jpeg`
+      item["href"] = 'https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261'
     }
     setParsed(newParsed);
   }
@@ -73,6 +74,9 @@ export default function uploadCSV() {
                   </div>
                   <div className="row">
                     &nbsp;&nbsp;"image": "{item["image"]}",
+                  </div>
+                  <div className="row">
+                    &nbsp;&nbsp;"href": "{item["href"]}",
                   </div>
                 &nbsp;{'},'}
               </div>

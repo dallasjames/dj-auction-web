@@ -3,7 +3,7 @@ import UnderConstruction from 'src/components/UnderConstruction';
 import '../../styles/app.scss'
 
 export default function App({ Component, pageProps }) {
-  const live = false;
+  const live = true;
   let links = [
     {
       label: 'Home',

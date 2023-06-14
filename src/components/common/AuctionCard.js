@@ -6,7 +6,7 @@ export default function AuctionCard(props) {
   } = props;
 
   return (
-    <a href={"https://proxibid.com"} target="_blank" className="AuctionCard">
+    <a href={auction.href} target="_blank" className="AuctionCard">
       <div className="inner">
         <div className="front" style={{backgroundImage: `url(${auction.image})`}}>
         </div>

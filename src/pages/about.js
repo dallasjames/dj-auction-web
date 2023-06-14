@@ -33,7 +33,10 @@ export default function Home() {
       out there copyrighting a blog. It's gotta be the last great thing you
       can steal from someone else right? Anyway this is dumb and I want to go
       to bed so stick around and bid on some stuff. All the links should take
-      you to a site called Proxibid and you can bid on it there.`
+      you to a site called Proxibid and you can bid on it there.
+      <h2>Terms and Conditions</h2>
+      <p>The purpose of the catalog is to identify items being sold to the best of the ability of DJ's Auctions LLC staff. Please review all items carefully before bidding and make your own judgment on identification, authenticity, and condition of items. It is our intention to give accurate descriptions with pictures of item as used in the description. It is the bidder's responsibility to determine condition and completeness, etc. of property being offered. All measurements are approximate. No warranty of merchantability or fitness is being offered by the auctioneer, seller, or any other agents. We disclaim any assessment of value by the auctioneer, seller, or any other agents. No allowance, adjustment or rescission of sale will be allowed based upon failure of the property to correspond to the particular need. We may or may not offer in person viewing hours and online photos and catalog. ALL SALES ARE FINAL NO RETURNS - EVERYTHING IS SOLD AS IS, THERE IS NO WARRANTIES WRITTEN OR IMPLIED.</p>
+      `
     }
   }
 
