@@ -25,6 +25,13 @@ export default function Home() {
     AuctionSections: [
       {
         title: 'Auctions',
+        auctions: [],
+        onOpen: onOpen,
+        open: openSection === 'auctions',
+        keyname: 'auctions',
+      }, // auctions
+      {
+        title: 'Previous Auctions',
         auctions: [
           {
            "Lot Number": "A1",
@@ -33,7 +40,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A1.jpeg",
+           "image": "/images/previous/1/A1.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -43,7 +50,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A2.jpeg",
+           "image": "/images/previous/1/A2.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -53,7 +60,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A3.jpeg",
+           "image": "/images/previous/1/A3.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -63,7 +70,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A4.jpeg",
+           "image": "/images/previous/1/A4.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -73,7 +80,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A5.jpeg",
+           "image": "/images/previous/1/A5.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -83,7 +90,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A6.jpeg",
+           "image": "/images/previous/1/A6.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -93,7 +100,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A7.jpeg",
+           "image": "/images/previous/1/A7.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -103,7 +110,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A8.jpeg",
+           "image": "/images/previous/1/A8.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -113,7 +120,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A9.jpeg",
+           "image": "/images/previous/1/A9.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -123,7 +130,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A10.jpeg",
+           "image": "/images/previous/1/A10.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -133,7 +140,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 40,
-           "image": "/images/1/A11.jpeg",
+           "image": "/images/previous/1/A11.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -143,7 +150,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 25,
-           "image": "/images/1/A12.jpeg",
+           "image": "/images/previous/1/A12.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -153,7 +160,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 75,
-           "image": "/images/1/A13.jpeg",
+           "image": "/images/previous/1/A13.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -163,7 +170,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 25,
-           "image": "/images/1/A14.jpeg",
+           "image": "/images/previous/1/A14.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -173,7 +180,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 25,
-           "image": "/images/1/A15.jpeg",
+           "image": "/images/previous/1/A15.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -183,7 +190,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A16.jpeg",
+           "image": "/images/previous/1/A16.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -193,7 +200,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A17.jpeg",
+           "image": "/images/previous/1/A17.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -203,7 +210,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A18.jpeg",
+           "image": "/images/previous/1/A18.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -213,7 +220,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A19.jpeg",
+           "image": "/images/previous/1/A19.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -223,7 +230,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A20.jpeg",
+           "image": "/images/previous/1/A20.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -233,7 +240,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A21.jpeg",
+           "image": "/images/previous/1/A21.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -243,7 +250,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 30,
-           "image": "/images/1/A22.jpeg",
+           "image": "/images/previous/1/A22.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -253,7 +260,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A23.jpeg",
+           "image": "/images/previous/1/A23.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -263,7 +270,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A24.jpeg",
+           "image": "/images/previous/1/A24.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -273,7 +280,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A25.jpeg",
+           "image": "/images/previous/1/A25.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -283,7 +290,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 4,
-           "image": "/images/1/A26.jpeg",
+           "image": "/images/previous/1/A26.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -293,7 +300,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 4,
-           "image": "/images/1/A27.jpeg",
+           "image": "/images/previous/1/A27.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -303,7 +310,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 4,
-           "image": "/images/1/A28.jpeg",
+           "image": "/images/previous/1/A28.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -313,7 +320,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 350,
-           "image": "/images/1/A29.jpeg",
+           "image": "/images/previous/1/A29.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -323,7 +330,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 4,
-           "image": "/images/1/A30.jpeg",
+           "image": "/images/previous/1/A30.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -333,7 +340,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A31.jpeg",
+           "image": "/images/previous/1/A31.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -343,7 +350,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A32.jpeg",
+           "image": "/images/previous/1/A32.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -353,7 +360,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A33.jpeg",
+           "image": "/images/previous/1/A33.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -363,7 +370,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A34.jpeg",
+           "image": "/images/previous/1/A34.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -373,7 +380,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A35.jpeg",
+           "image": "/images/previous/1/A35.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -383,7 +390,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 30,
-           "image": "/images/1/A36.jpeg",
+           "image": "/images/previous/1/A36.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -393,7 +400,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 150,
-           "image": "/images/1/A37.jpeg",
+           "image": "/images/previous/1/A37.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -403,7 +410,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 25,
-           "image": "/images/1/A38.jpeg",
+           "image": "/images/previous/1/A38.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -413,7 +420,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 30,
-           "image": "/images/1/A39.jpeg",
+           "image": "/images/previous/1/A39.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -423,7 +430,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 30,
-           "image": "/images/1/A40.jpeg",
+           "image": "/images/previous/1/A40.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -433,7 +440,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 12,
-           "image": "/images/1/A41.jpeg",
+           "image": "/images/previous/1/A41.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -443,7 +450,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 12,
-           "image": "/images/1/A42.jpeg",
+           "image": "/images/previous/1/A42.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -453,7 +460,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 12,
-           "image": "/images/1/A43.jpeg",
+           "image": "/images/previous/1/A43.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -463,7 +470,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 12,
-           "image": "/images/1/A44.jpeg",
+           "image": "/images/previous/1/A44.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -473,7 +480,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 12,
-           "image": "/images/1/A45.jpeg",
+           "image": "/images/previous/1/A45.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -483,7 +490,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 50,
-           "image": "/images/1/A46.jpeg",
+           "image": "/images/previous/1/A46.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -493,7 +500,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 2,
-           "image": "/images/1/A47.jpeg",
+           "image": "/images/previous/1/A47.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -503,7 +510,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 2,
-           "image": "/images/1/A48.jpeg",
+           "image": "/images/previous/1/A48.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -513,7 +520,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 2,
-           "image": "/images/1/A49.jpeg",
+           "image": "/images/previous/1/A49.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -523,7 +530,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 2,
-           "image": "/images/1/A50.jpeg",
+           "image": "/images/previous/1/A50.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -533,7 +540,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A51.jpeg",
+           "image": "/images/previous/1/A51.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -543,7 +550,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A52.jpeg",
+           "image": "/images/previous/1/A52.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -553,7 +560,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A53.jpeg",
+           "image": "/images/previous/1/A53.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -563,7 +570,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A54.jpeg",
+           "image": "/images/previous/1/A54.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -573,7 +580,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A55.jpeg",
+           "image": "/images/previous/1/A55.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -583,7 +590,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A56.jpeg",
+           "image": "/images/previous/1/A56.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -593,7 +600,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A57.jpeg",
+           "image": "/images/previous/1/A57.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -603,7 +610,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A58.jpeg",
+           "image": "/images/previous/1/A58.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -613,7 +620,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A59.jpeg",
+           "image": "/images/previous/1/A59.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -623,7 +630,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A60.jpeg",
+           "image": "/images/previous/1/A60.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -633,7 +640,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A61.jpeg",
+           "image": "/images/previous/1/A61.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -643,7 +650,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A62.jpeg",
+           "image": "/images/previous/1/A62.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -653,7 +660,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A63.jpeg",
+           "image": "/images/previous/1/A63.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -663,7 +670,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A64.jpeg",
+           "image": "/images/previous/1/A64.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -673,7 +680,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A65.jpeg",
+           "image": "/images/previous/1/A65.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -683,7 +690,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 40,
-           "image": "/images/1/A66.jpeg",
+           "image": "/images/previous/1/A66.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -693,7 +700,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 50,
-           "image": "/images/1/A67.jpeg",
+           "image": "/images/previous/1/A67.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -703,7 +710,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 100,
-           "image": "/images/1/A68.jpeg",
+           "image": "/images/previous/1/A68.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -713,7 +720,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 25,
-           "image": "/images/1/A69.jpeg",
+           "image": "/images/previous/1/A69.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -723,7 +730,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 50,
-           "image": "/images/1/A70.jpeg",
+           "image": "/images/previous/1/A70.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -733,7 +740,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 20,
-           "image": "/images/1/A71.jpeg",
+           "image": "/images/previous/1/A71.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -743,7 +750,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 12,
-           "image": "/images/1/A72.jpeg",
+           "image": "/images/previous/1/A72.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -753,7 +760,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A73.jpeg",
+           "image": "/images/previous/1/A73.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -763,7 +770,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A74.jpeg",
+           "image": "/images/previous/1/A74.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -773,7 +780,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A75.jpeg",
+           "image": "/images/previous/1/A75.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -783,7 +790,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A76.jpeg",
+           "image": "/images/previous/1/A76.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -793,7 +800,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A77.jpeg",
+           "image": "/images/previous/1/A77.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -803,7 +810,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A78.jpeg",
+           "image": "/images/previous/1/A78.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -813,7 +820,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A79.jpeg",
+           "image": "/images/previous/1/A79.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -823,7 +830,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 8,
-           "image": "/images/1/A80.jpeg",
+           "image": "/images/previous/1/A80.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -833,7 +840,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A81.jpeg",
+           "image": "/images/previous/1/A81.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -843,7 +850,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A82.jpeg",
+           "image": "/images/previous/1/A82.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -853,7 +860,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A83.jpeg",
+           "image": "/images/previous/1/A83.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -863,7 +870,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A84.jpeg",
+           "image": "/images/previous/1/A84.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -873,7 +880,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A85.jpeg",
+           "image": "/images/previous/1/A85.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -883,7 +890,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A86.jpeg",
+           "image": "/images/previous/1/A86.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -893,7 +900,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A87.jpeg",
+           "image": "/images/previous/1/A87.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -903,7 +910,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A88.jpeg",
+           "image": "/images/previous/1/A88.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -913,7 +920,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A89.jpeg",
+           "image": "/images/previous/1/A89.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -923,7 +930,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 5,
-           "image": "/images/1/A90.jpeg",
+           "image": "/images/previous/1/A90.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -933,7 +940,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A91.jpeg",
+           "image": "/images/previous/1/A91.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -943,7 +950,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A92.jpeg",
+           "image": "/images/previous/1/A92.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -953,7 +960,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A93.jpeg",
+           "image": "/images/previous/1/A93.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -963,7 +970,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A94.jpeg",
+           "image": "/images/previous/1/A94.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -973,7 +980,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A95.jpeg",
+           "image": "/images/previous/1/A95.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -983,7 +990,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A96.jpeg",
+           "image": "/images/previous/1/A96.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -993,7 +1000,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A97.jpeg",
+           "image": "/images/previous/1/A97.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -1003,7 +1010,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A98.jpeg",
+           "image": "/images/previous/1/A98.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -1013,7 +1020,7 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 50,
-           "image": "/images/1/A99.jpeg",
+           "image": "/images/previous/1/A99.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
           {
@@ -1023,13 +1030,13 @@ export default function Home() {
            "Starting Bid": 2,
            "Quantity": 1,
            "Reserve": 10,
-           "image": "/images/1/A100.jpeg",
+           "image": "/images/previous/1/A100.jpg",
            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261",
           },
-         ],
+        ],
         onOpen: onOpen,
-        open: openSection === 'auctions',
-        keyname: 'auctions',
+        open: openSection === 'prev-auctions',
+        keyname: 'prev-auctions',
       }, // auctions
     ]
   }
