@@ -28,8 +28,8 @@ export default function uploadCSV() {
     let newParsed = file;
     for (let i = 0; i < newParsed.length; i++) {
       let item = newParsed[i];
-      item["image"] = `/images/${imageFolderName}/${item["Lot Number"]}.jpeg`
-      item["href"] = 'https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/244261'
+      item["image"] = `/images/${imageFolderName}/${item["Lot Number"]}.jpg`
+      item["href"] = 'https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate-Auction/event-catalog/245845'
     }
     setParsed(newParsed);
   }
