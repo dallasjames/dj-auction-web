@@ -4,6 +4,7 @@ import csvJSON from "src/utils/csvToJson"
 export default function uploadCSV() {
 
   const [imageFolderName, setImageFolderName] = useState('');
+  const [auctionUrl, setAuctionUrl] = useState('');
   const [csv, setCsv] = useState('');
   const [parsed, setParsed] = useState([]);
   const [showData, setShowData] = useState(false);
@@ -28,8 +29,8 @@ export default function uploadCSV() {
     let newParsed = file;
     for (let i = 0; i < newParsed.length; i++) {
       let item = newParsed[i];
-      item["image"] = `/images/${imageFolderName}/${item["Lot Number"]}.jpg`
-      item["href"] = 'https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate-Auction/event-catalog/245845'
+      item["image"] = `/images/auctions/${imageFolderName}/${item["Lot Number"]}.jpg`
+      item["href"] = auctionUrl
     }
     setParsed(newParsed);
   }
@@ -44,6 +45,7 @@ export default function uploadCSV() {
     <div className="csvChecker">
       <form onSubmit={readCsv}>
         <input type="text" onChange={(e) => setImageFolderName(e.target.value)} placeholder="Folder Name" />
+        <input type="text" onChange={(e) => setAuctionUrl(e.target.value)} placeholder="Auction URL" />
         <input type="file" onChange={getCsv} />
         <input type="submit" value="Submit" />
       </form>
