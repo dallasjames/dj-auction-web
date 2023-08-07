@@ -55,32 +55,32 @@ export default function uploadCSV() {
           parsed.map((item, index) => {
             return (
               <div className="item" key={'item-'+index}>
-                &nbsp;{'{'}
+                &nbsp;&nbsp;{'{'}
                   <div className="row">
-                    &nbsp;&nbsp;"Lot Number": "{item["Lot Number"]}",
+                    &nbsp;&nbsp;&nbsp;&nbsp;"Lot Number": "{item["Lot Number"]}",
                   </div>
                   <div className="row">
-                    &nbsp;&nbsp;"Lot Title": "{item["Lot Title"]}",
+                    &nbsp;&nbsp;&nbsp;&nbsp;"Lot Title": "{item["Lot Title"]}",
                   </div>
                   <div className="row">
-                    &nbsp;&nbsp;"Lot Description": "{item["Lot Description"]}",
+                    &nbsp;&nbsp;&nbsp;&nbsp;"Lot Description": "{item["Lot Description"]}",
                   </div>
                   <div className="row">
-                    &nbsp;&nbsp;"Starting Bid": {item["Starting Bid"]},
+                    &nbsp;&nbsp;&nbsp;&nbsp;"Starting Bid": {item["Starting Bid"]},
                   </div>
                   <div className="row">
-                    &nbsp;&nbsp;"Quantity": {item["Quantity"]},
+                    &nbsp;&nbsp;&nbsp;&nbsp;"Quantity": {item["Quantity"]},
                   </div>
                   <div className="row">
-                    &nbsp;&nbsp;"Reserve": {item["Reserve"]},
+                    &nbsp;&nbsp;&nbsp;&nbsp;"Reserve": {item["Reserve"]},
                   </div>
                   <div className="row">
-                    &nbsp;&nbsp;"image": "{item["image"]}",
+                    &nbsp;&nbsp;&nbsp;&nbsp;"image": "{item["image"]}",
                   </div>
                   <div className="row">
-                    &nbsp;&nbsp;"href": "{item["href"]}",
+                    &nbsp;&nbsp;&nbsp;&nbsp;"href": "{item["href"]}",
                   </div>
-                &nbsp;{'},'}
+                  &nbsp;&nbsp;{'},'}
               </div>
             )
           })

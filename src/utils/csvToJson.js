@@ -8,8 +8,8 @@ export default function csvJSON(csv){
     for (let i = 1; i < lines.length; i++) {
       let obj = {};
       let currentline = lines[i].split(",");
-      for(let j = 0; j < headers.length;j++){
-          obj[headers[j]] = currentline[j];
+      for (let j = 0; j < headers.length; j++) {
+        obj[headers[j]] = currentline[j];
       }
       result.push(obj);
     }
