@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>DJ's Auction House</title>
+    <link>https://djsauctionhouse.com</link>
+    <atom:link href="https://djsauctionhouse.com/rss.xml" rel="self" type="application/rss+xml" />
+    <description/>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Aug 2023 23:42:18 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Aug 2023 23:42:18 GMT</pubDate>
+    <image>
+      <title>DJ's Auction House</title>
+      <url>https://djsauctionhouse.com/favicon.png</url>
+      <link>https://djsauctionhouse.com</link>
+    </image>
+    <item>
+      <title>BOYZ AND THEIR TOYZ COMIC BOOK AUCTION</title>
+      <link>https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504</link>
+      <guid isPermaLink="true">https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504</guid>
+      <atom:link href="https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504" rel="related" />
+      <description>BOYZ AND THEIR TOYZ COMIC BOOK AUCTION</description>
+      <dc:creator>DJ's Auction House</dc:creator>
+      <pubDate>Tue, 15 Aug 2023 02:00:00 GMT</pubDate>
+      <media:content width="376" height="550" medium="image" url="https://images.proxibid.com/AuctionImages/12024/247504/FILarge/0201.jpg"/>
+    </item>
+    <item>
+      <title>Vintage and modern colletibles</title>
+      <link>https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083</link>
+      <guid isPermaLink="true">https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083</guid>
+      <atom:link href="https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083" rel="related" />
+      <description>vintage comic books, sealed and rare vhs, sealed dvd's, authentic vinyl records, coins, tapes</description>
+      <dc:creator>DJ's Auction House</dc:creator>
+      <pubDate>Thu, 10 Aug 2023 00:00:00 GMT</pubDate>
+      <media:content width="550" height="298" medium="image" url="https://images.proxibid.com/AuctionImages/12024/247083/FILarge/A1.jpg"/>
+    </item>
+    <item>
+      <title>Vintage and modern colletibles</title>
+      <link>https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/246641</link>
+      <guid isPermaLink="true">https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/246641</guid>
+      <atom:link href="https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/246641" rel="related" />
+      <description>vintage comic books, sealed and rare vhs, sealed dvd's, authentic vinyl records, coins, tapes</description>
+      <dc:creator>DJ's Auction House</dc:creator>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+      <media:content width="389" height="550" medium="image" url="https://images.proxibid.com/AuctionImages/12024/246641/FILarge/0101.jpg"/>
+    </item>
+  </channel>
+</rss>
