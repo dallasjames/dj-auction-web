@@ -1,0 +1,20 @@
+# https://www.robotstxt.org/robotstxt.html
+
+  # Disallow the site from Google Image results
+  User-agent: Googlebot-Image
+  Allow: /android-chrome-192x192.png
+  Allow: /android-chrome-512x512.png
+  Allow: /apple-touch-icon.png
+  Allow: /favicon-16x16.png
+  Allow: /favicon-32x32.png
+  Allow: /favicon-48x48.png
+  Allow: /favicon-96x96.png
+  Allow: /favicon-144x144.png
+  Allow: /favicon.ico
+  Allow: /logo.png
+  Allow: /mstile-150x150.png
+  Disallow: /
+  
+  # Configure for the rest of the crawlers
+  User-agent: *
+  Allow: /
