@@ -30,7 +30,7 @@ export default function uploadCSV() {
     for (let i = 0; i < newParsed.length; i++) {
       let item = newParsed[i];
       item["image"] = `/images/auctions/${imageFolderName}/${item["Lot Number"]}.jpg`
-      item["href"] = auctionUrl
+      item["href"] = auctionUrl + '#lot-image-' + item["Lot Number"];
     }
     setParsed(newParsed);
   }

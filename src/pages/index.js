@@ -34,7 +34,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 550,
             "image": "/images/auctions/5/0201.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0201",
           },
           {
             "Lot Number": "0101",
@@ -44,7 +44,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0101.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0101",
           },
           {
             "Lot Number": "A1",
@@ -54,7 +54,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/4/A1.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A1",
           },
           {
             "Lot Number": "0202",
@@ -64,7 +64,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 250,
             "image": "/images/auctions/5/0202.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0202",
           },
           {
             "Lot Number": "0203",
@@ -74,7 +74,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 100,
             "image": "/images/auctions/5/0203.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0203",
           },
           {
             "Lot Number": "0102",
@@ -84,7 +84,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/6/0102.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0102",
           },
           {
             "Lot Number": "A2",
@@ -94,7 +94,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/4/A2.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A2",
           },
           {
             "Lot Number": "0204",
@@ -104,7 +104,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 100,
             "image": "/images/auctions/5/0204.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0204",
           },
           {
             "Lot Number": "0205",
@@ -114,7 +114,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/5/0205.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0205",
           },
           {
             "Lot Number": "0103",
@@ -124,7 +124,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0103.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0103",
           },
           {
             "Lot Number": "A3",
@@ -134,7 +134,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A3.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A3",
           },
           {
             "Lot Number": "0206",
@@ -144,7 +144,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 35,
             "image": "/images/auctions/5/0206.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0206",
           },
           {
             "Lot Number": "0207",
@@ -154,7 +154,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0207.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0207",
           },
           {
             "Lot Number": "0104",
@@ -164,7 +164,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0104.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0104",
           },
           {
             "Lot Number": "A4",
@@ -174,7 +174,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A4.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A4",
           },
           {
             "Lot Number": "0208",
@@ -184,7 +184,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0208.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0208",
           },
           {
             "Lot Number": "0209",
@@ -194,7 +194,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0209.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0209",
           },
           {
             "Lot Number": "0105",
@@ -204,7 +204,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0105.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0105",
           },
           {
             "Lot Number": "A5",
@@ -214,7 +214,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A5.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A5",
           },
           {
             "Lot Number": "0210",
@@ -224,7 +224,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0210.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0210",
           },
           {
             "Lot Number": "0211",
@@ -234,7 +234,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0211.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0211",
           },
           {
             "Lot Number": "0106",
@@ -244,7 +244,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0106.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0106",
           },
           {
             "Lot Number": "A6",
@@ -254,7 +254,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A6.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A6",
           },
           {
             "Lot Number": "0212",
@@ -264,7 +264,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0212.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0212",
           },
           {
             "Lot Number": "0213",
@@ -274,7 +274,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0213.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0213",
           },
           {
             "Lot Number": "0107",
@@ -284,7 +284,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0107.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0107",
           },
           {
             "Lot Number": "A7",
@@ -294,7 +294,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A7.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A7",
           },
           {
             "Lot Number": "0214",
@@ -304,7 +304,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0214.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0214",
           },
           {
             "Lot Number": "0215",
@@ -314,7 +314,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 75,
             "image": "/images/auctions/5/0215.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0215",
           },
           {
             "Lot Number": "0108",
@@ -324,7 +324,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0108.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0108",
           },
           {
             "Lot Number": "A8",
@@ -334,7 +334,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A8.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A8",
           },
           {
             "Lot Number": "0216",
@@ -344,7 +344,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/5/0216.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0216",
           },
           {
             "Lot Number": "0217",
@@ -354,7 +354,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/5/0217.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0217",
           },
           {
             "Lot Number": "0109",
@@ -364,7 +364,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0109.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0109",
           },
           {
             "Lot Number": "A9",
@@ -374,7 +374,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A9.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A9",
           },
           {
             "Lot Number": "0218",
@@ -384,7 +384,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0218.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0218",
           },
           {
             "Lot Number": "0219",
@@ -394,7 +394,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0219.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0219",
           },
           {
             "Lot Number": "0110",
@@ -404,7 +404,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0110.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0110",
           },
           {
             "Lot Number": "A10",
@@ -414,7 +414,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A10.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A10",
           },
           {
             "Lot Number": "0220",
@@ -424,7 +424,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/5/0220.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0220",
           },
           {
             "Lot Number": "0221",
@@ -434,7 +434,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0221.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0221",
           },
           {
             "Lot Number": "0111",
@@ -444,7 +444,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0111.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0111",
           },
           {
             "Lot Number": "A11",
@@ -454,7 +454,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 40,
             "image": "/images/auctions/4/A11.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A11",
           },
           {
             "Lot Number": "0222",
@@ -464,7 +464,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0222.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0222",
           },
           {
             "Lot Number": "0223",
@@ -474,7 +474,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0223.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0223",
           },
           {
             "Lot Number": "0112",
@@ -484,7 +484,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0112.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0112",
           },
           {
             "Lot Number": "A12",
@@ -494,7 +494,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/4/A12.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A12",
           },
           {
             "Lot Number": "0224",
@@ -504,7 +504,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0224.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0224",
           },
           {
             "Lot Number": "0225",
@@ -514,7 +514,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0225.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0225",
           },
           {
             "Lot Number": "0113",
@@ -524,7 +524,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0113.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0113",
           },
           {
             "Lot Number": "A13",
@@ -534,7 +534,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 75,
             "image": "/images/auctions/4/A13.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A13",
           },
           {
             "Lot Number": "0226",
@@ -544,7 +544,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0226.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0226",
           },
           {
             "Lot Number": "0227",
@@ -554,7 +554,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0227.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0227",
           },
           {
             "Lot Number": "0114",
@@ -564,7 +564,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0114.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0114",
           },
           {
             "Lot Number": "A14",
@@ -574,7 +574,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/4/A14.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A14",
           },
           {
             "Lot Number": "0228",
@@ -584,7 +584,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0228.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0228",
           },
           {
             "Lot Number": "0229",
@@ -594,7 +594,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0229.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0229",
           },
           {
             "Lot Number": "0115",
@@ -604,7 +604,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0115.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0115",
           },
           {
             "Lot Number": "A15",
@@ -614,7 +614,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/4/A15.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A15",
           },
           {
             "Lot Number": "0230",
@@ -624,7 +624,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0230.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0230",
           },
           {
             "Lot Number": "0231",
@@ -634,7 +634,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0231.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0231",
           },
           {
             "Lot Number": "0116",
@@ -644,7 +644,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 20,
             "image": "/images/auctions/6/0116.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0116",
           },
           {
             "Lot Number": "A16",
@@ -654,7 +654,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A16.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A16",
           },
           {
             "Lot Number": "0232",
@@ -664,7 +664,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0232.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0232",
           },
           {
             "Lot Number": "0233",
@@ -674,7 +674,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/5/0233.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0233",
           },
           {
             "Lot Number": "0117",
@@ -684,7 +684,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0117.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0117",
           },
           {
             "Lot Number": "A17",
@@ -694,7 +694,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A17.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A17",
           },
           {
             "Lot Number": "0234",
@@ -704,7 +704,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0234.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0234",
           },
           {
             "Lot Number": "0235",
@@ -714,7 +714,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0235.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0235",
           },
           {
             "Lot Number": "0118",
@@ -724,7 +724,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0118.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0118",
           },
           {
             "Lot Number": "A18",
@@ -734,7 +734,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A18.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A18",
           },
           {
             "Lot Number": "0236",
@@ -744,7 +744,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0236.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0236",
           },
           {
             "Lot Number": "0237",
@@ -754,7 +754,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0237.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0237",
           },
           {
             "Lot Number": "0119",
@@ -764,7 +764,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0119.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0119",
           },
           {
             "Lot Number": "A19",
@@ -774,7 +774,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A19.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A19",
           },
           {
             "Lot Number": "0238",
@@ -784,7 +784,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0238.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0238",
           },
           {
             "Lot Number": "0239",
@@ -794,7 +794,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0239.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0239",
           },
           {
             "Lot Number": "0120",
@@ -804,7 +804,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0120.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0120",
           },
           {
             "Lot Number": "A20",
@@ -814,7 +814,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A20.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A20",
           },
           {
             "Lot Number": "0240",
@@ -824,7 +824,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0240.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0240",
           },
           {
             "Lot Number": "0241",
@@ -834,7 +834,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0241.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0241",
           },
           {
             "Lot Number": "0121",
@@ -844,7 +844,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0121.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0121",
           },
           {
             "Lot Number": "A21",
@@ -854,7 +854,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A21.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A21",
           },
           {
             "Lot Number": "0242",
@@ -864,7 +864,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0242.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0242",
           },
           {
             "Lot Number": "0243",
@@ -874,7 +874,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0243.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0243",
           },
           {
             "Lot Number": "0122",
@@ -884,7 +884,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0122.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0122",
           },
           {
             "Lot Number": "A22",
@@ -894,7 +894,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 20,
             "image": "/images/auctions/4/A22.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A22",
           },
           {
             "Lot Number": "0244",
@@ -904,7 +904,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0244.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0244",
           },
           {
             "Lot Number": "0245",
@@ -914,7 +914,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0245.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0245",
           },
           {
             "Lot Number": "0123",
@@ -924,7 +924,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0123.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0123",
           },
           {
             "Lot Number": "A23",
@@ -934,7 +934,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A23.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A23",
           },
           {
             "Lot Number": "0246",
@@ -944,7 +944,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/5/0246.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0246",
           },
           {
             "Lot Number": "0247",
@@ -954,7 +954,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0247.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0247",
           },
           {
             "Lot Number": "0124",
@@ -964,7 +964,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0124.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0124",
           },
           {
             "Lot Number": "A24",
@@ -974,7 +974,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A24.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A24",
           },
           {
             "Lot Number": "0248",
@@ -984,7 +984,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0248.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0248",
           },
           {
             "Lot Number": "0249",
@@ -994,7 +994,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0249.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0249",
           },
           {
             "Lot Number": "0125",
@@ -1004,7 +1004,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0125.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0125",
           },
           {
             "Lot Number": "A25",
@@ -1014,7 +1014,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A25.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A25",
           },
           {
             "Lot Number": "0250",
@@ -1024,7 +1024,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 100,
             "image": "/images/auctions/5/0250.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0250",
           },
           {
             "Lot Number": "0251",
@@ -1034,7 +1034,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0251.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0251",
           },
           {
             "Lot Number": "0126",
@@ -1044,7 +1044,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 2,
             "image": "/images/auctions/6/0126.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0126",
           },
           {
             "Lot Number": "A26",
@@ -1054,7 +1054,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 4,
             "image": "/images/auctions/4/A26.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A26",
           },
           {
             "Lot Number": "0252",
@@ -1064,7 +1064,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0252.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0252",
           },
           {
             "Lot Number": "0253",
@@ -1074,7 +1074,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0253.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0253",
           },
           {
             "Lot Number": "0127",
@@ -1084,7 +1084,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 2,
             "image": "/images/auctions/6/0127.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0127",
           },
           {
             "Lot Number": "A27",
@@ -1094,7 +1094,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 4,
             "image": "/images/auctions/4/A27.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A27",
           },
           {
             "Lot Number": "0254",
@@ -1104,7 +1104,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0254.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0254",
           },
           {
             "Lot Number": "0255",
@@ -1114,7 +1114,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0255.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0255",
           },
           {
             "Lot Number": "0128",
@@ -1124,7 +1124,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 2,
             "image": "/images/auctions/6/0128.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0128",
           },
           {
             "Lot Number": "A28",
@@ -1134,7 +1134,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 4,
             "image": "/images/auctions/4/A28.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A28",
           },
           {
             "Lot Number": "0256",
@@ -1144,7 +1144,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0256.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0256",
           },
           {
             "Lot Number": "0257",
@@ -1154,7 +1154,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0257.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0257",
           },
           {
             "Lot Number": "0129",
@@ -1164,7 +1164,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 2,
             "image": "/images/auctions/6/0129.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0129",
           },
           {
             "Lot Number": "A29",
@@ -1174,7 +1174,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 4,
             "image": "/images/auctions/4/A29.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A29",
           },
           {
             "Lot Number": "0258",
@@ -1184,7 +1184,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0258.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0258",
           },
           {
             "Lot Number": "0259",
@@ -1194,7 +1194,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0259.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0259",
           },
           {
             "Lot Number": "0130",
@@ -1204,7 +1204,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0130.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0130",
           },
           {
             "Lot Number": "A30",
@@ -1214,7 +1214,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 4,
             "image": "/images/auctions/4/A30.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A30",
           },
           {
             "Lot Number": "0260",
@@ -1224,7 +1224,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/5/0260.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0260",
           },
           {
             "Lot Number": "0261",
@@ -1234,7 +1234,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0261.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0261",
           },
           {
             "Lot Number": "0131",
@@ -1244,7 +1244,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0131.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0131",
           },
           {
             "Lot Number": "A31",
@@ -1254,7 +1254,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A31.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A31",
           },
           {
             "Lot Number": "0262",
@@ -1264,7 +1264,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0262.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0262",
           },
           {
             "Lot Number": "0263",
@@ -1274,7 +1274,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0263.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0263",
           },
           {
             "Lot Number": "0132",
@@ -1284,7 +1284,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/6/0132.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0132",
           },
           {
             "Lot Number": "A32",
@@ -1294,7 +1294,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A32.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A32",
           },
           {
             "Lot Number": "0264",
@@ -1304,7 +1304,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0264.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0264",
           },
           {
             "Lot Number": "0265",
@@ -1314,7 +1314,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0265.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0265",
           },
           {
             "Lot Number": "0133",
@@ -1324,7 +1324,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0133.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0133",
           },
           {
             "Lot Number": "A33",
@@ -1334,7 +1334,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A33.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A33",
           },
           {
             "Lot Number": "0266",
@@ -1344,7 +1344,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0266.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0266",
           },
           {
             "Lot Number": "0267",
@@ -1354,7 +1354,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0267.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0267",
           },
           {
             "Lot Number": "0134",
@@ -1364,7 +1364,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0134.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0134",
           },
           {
             "Lot Number": "A34",
@@ -1374,7 +1374,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A34.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A34",
           },
           {
             "Lot Number": "0268",
@@ -1384,7 +1384,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0268.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0268",
           },
           {
             "Lot Number": "0269",
@@ -1394,7 +1394,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0269.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0269",
           },
           {
             "Lot Number": "0135",
@@ -1404,7 +1404,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0135.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0135",
           },
           {
             "Lot Number": "A35",
@@ -1414,7 +1414,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A35.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A35",
           },
           {
             "Lot Number": "0270",
@@ -1424,7 +1424,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0270.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0270",
           },
           {
             "Lot Number": "0271",
@@ -1434,7 +1434,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0271.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0271",
           },
           {
             "Lot Number": "0136",
@@ -1444,7 +1444,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0136.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0136",
           },
           {
             "Lot Number": "A36",
@@ -1454,7 +1454,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 30,
             "image": "/images/auctions/4/A36.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A36",
           },
           {
             "Lot Number": "0272",
@@ -1464,7 +1464,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0272.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0272",
           },
           {
             "Lot Number": "0273",
@@ -1474,7 +1474,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0273.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0273",
           },
           {
             "Lot Number": "0137",
@@ -1484,7 +1484,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/6/0137.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0137",
           },
           {
             "Lot Number": "A37",
@@ -1494,7 +1494,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 100,
             "image": "/images/auctions/4/A37.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A37",
           },
           {
             "Lot Number": "0274",
@@ -1504,7 +1504,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0274.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0274",
           },
           {
             "Lot Number": "0275",
@@ -1514,7 +1514,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0275.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0275",
           },
           {
             "Lot Number": "0138",
@@ -1524,7 +1524,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0138.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0138",
           },
           {
             "Lot Number": "A38",
@@ -1534,7 +1534,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 75,
             "image": "/images/auctions/4/A38.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A38",
           },
           {
             "Lot Number": "0276",
@@ -1544,7 +1544,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0276.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0276",
           },
           {
             "Lot Number": "0277",
@@ -1554,7 +1554,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/5/0277.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0277",
           },
           {
             "Lot Number": "0139",
@@ -1564,7 +1564,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0139.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0139",
           },
           {
             "Lot Number": "A39",
@@ -1574,7 +1574,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 30,
             "image": "/images/auctions/4/A39.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A39",
           },
           {
             "Lot Number": "0278",
@@ -1584,7 +1584,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0278.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0278",
           },
           {
             "Lot Number": "0279",
@@ -1594,7 +1594,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0279.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0279",
           },
           {
             "Lot Number": "0140",
@@ -1604,7 +1604,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0140.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0140",
           },
           {
             "Lot Number": "A40",
@@ -1614,7 +1614,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 30,
             "image": "/images/auctions/4/A40.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A40",
           },
           {
             "Lot Number": "0280",
@@ -1624,7 +1624,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0280.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0280",
           },
           {
             "Lot Number": "0281",
@@ -1634,7 +1634,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0281.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0281",
           },
           {
             "Lot Number": "0141",
@@ -1644,7 +1644,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0141.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0141",
           },
           {
             "Lot Number": "A41",
@@ -1654,7 +1654,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 12,
             "image": "/images/auctions/4/A41.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A41",
           },
           {
             "Lot Number": "0282",
@@ -1664,7 +1664,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0282.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0282",
           },
           {
             "Lot Number": "0283",
@@ -1674,7 +1674,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0283.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0283",
           },
           {
             "Lot Number": "0142",
@@ -1684,7 +1684,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0142.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0142",
           },
           {
             "Lot Number": "A42",
@@ -1694,7 +1694,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 12,
             "image": "/images/auctions/4/A42.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A42",
           },
           {
             "Lot Number": "0284",
@@ -1704,7 +1704,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0284.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0284",
           },
           {
             "Lot Number": "0285",
@@ -1714,7 +1714,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0285.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0285",
           },
           {
             "Lot Number": "0143",
@@ -1724,7 +1724,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0143.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0143",
           },
           {
             "Lot Number": "A43",
@@ -1734,7 +1734,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 12,
             "image": "/images/auctions/4/A43.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A43",
           },
           {
             "Lot Number": "0286",
@@ -1744,7 +1744,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 20,
             "image": "/images/auctions/5/0286.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0286",
           },
           {
             "Lot Number": "0287",
@@ -1754,7 +1754,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0287.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0287",
           },
           {
             "Lot Number": "0144",
@@ -1764,7 +1764,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0144.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0144",
           },
           {
             "Lot Number": "A44",
@@ -1774,7 +1774,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 12,
             "image": "/images/auctions/4/A44.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A44",
           },
           {
             "Lot Number": "0288",
@@ -1784,7 +1784,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0288.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0288",
           },
           {
             "Lot Number": "0289",
@@ -1794,7 +1794,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0289.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0289",
           },
           {
             "Lot Number": "0145",
@@ -1804,7 +1804,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0145.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0145",
           },
           {
             "Lot Number": "A45",
@@ -1814,7 +1814,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 12,
             "image": "/images/auctions/4/A45.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A45",
           },
           {
             "Lot Number": "0290",
@@ -1824,7 +1824,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0290.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0290",
           },
           {
             "Lot Number": "0291",
@@ -1834,7 +1834,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0291.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0291",
           },
           {
             "Lot Number": "0146",
@@ -1844,7 +1844,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0146.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0146",
           },
           {
             "Lot Number": "A46",
@@ -1854,7 +1854,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/4/A46.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A46",
           },
           {
             "Lot Number": "0292",
@@ -1864,7 +1864,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0292.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0292",
           },
           {
             "Lot Number": "0293",
@@ -1874,7 +1874,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0293.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0293",
           },
           {
             "Lot Number": "0147",
@@ -1884,7 +1884,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0147.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0147",
           },
           {
             "Lot Number": "A47",
@@ -1894,7 +1894,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 2,
             "image": "/images/auctions/4/A47.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A47",
           },
           {
             "Lot Number": "0294",
@@ -1904,7 +1904,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0294.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0294",
           },
           {
             "Lot Number": "0295",
@@ -1914,7 +1914,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0295.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0295",
           },
           {
             "Lot Number": "0148",
@@ -1924,7 +1924,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0148.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0148",
           },
           {
             "Lot Number": "A48",
@@ -1934,7 +1934,7 @@ export default function Home() {
             "Quantity": 2,
             "Reserve": 1,
             "image": "/images/auctions/4/A48.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A48",
           },
           {
             "Lot Number": "0296",
@@ -1944,7 +1944,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0296.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0296",
           },
           {
             "Lot Number": "0297",
@@ -1954,7 +1954,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0297.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0297",
           },
           {
             "Lot Number": "0149",
@@ -1964,7 +1964,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0149.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0149",
           },
           {
             "Lot Number": "A49",
@@ -1974,7 +1974,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 2,
             "image": "/images/auctions/4/A49.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A49",
           },
           {
             "Lot Number": "0298",
@@ -1984,7 +1984,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0298.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0298",
           },
           {
             "Lot Number": "0299",
@@ -1994,7 +1994,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/5/0299.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0299",
           },
           {
             "Lot Number": "0150",
@@ -2004,7 +2004,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0150.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0150",
           },
           {
             "Lot Number": "A50",
@@ -2014,7 +2014,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A50.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A50",
           },
           {
             "Lot Number": "0300",
@@ -2024,7 +2024,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0300.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0300",
           },
           {
             "Lot Number": "0301",
@@ -2034,7 +2034,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 75,
             "image": "/images/auctions/5/0301.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0301",
           },
           {
             "Lot Number": "0151",
@@ -2044,7 +2044,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/6/0151.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0151",
           },
           {
             "Lot Number": "A51",
@@ -2054,7 +2054,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A51.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A51",
           },
           {
             "Lot Number": "0302",
@@ -2064,7 +2064,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 20,
             "image": "/images/auctions/5/0302.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0302",
           },
           {
             "Lot Number": "0303",
@@ -2074,7 +2074,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/5/0303.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0303",
           },
           {
             "Lot Number": "0152",
@@ -2084,7 +2084,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/6/0152.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0152",
           },
           {
             "Lot Number": "A52",
@@ -2094,7 +2094,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A52.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A52",
           },
           {
             "Lot Number": "0304",
@@ -2104,7 +2104,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0304.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0304",
           },
           {
             "Lot Number": "0305",
@@ -2114,7 +2114,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0305.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0305",
           },
           {
             "Lot Number": "0153",
@@ -2124,7 +2124,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0153.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0153",
           },
           {
             "Lot Number": "A53",
@@ -2134,7 +2134,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A53.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A53",
           },
           {
             "Lot Number": "0306",
@@ -2144,7 +2144,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0306.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0306",
           },
           {
             "Lot Number": "0307",
@@ -2154,7 +2154,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0307.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0307",
           },
           {
             "Lot Number": "0154",
@@ -2164,7 +2164,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0154.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0154",
           },
           {
             "Lot Number": "A54",
@@ -2174,7 +2174,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A54.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A54",
           },
           {
             "Lot Number": "0308",
@@ -2184,7 +2184,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0308.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0308",
           },
           {
             "Lot Number": "0309",
@@ -2194,7 +2194,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0309.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0309",
           },
           {
             "Lot Number": "0155",
@@ -2204,7 +2204,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0155.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0155",
           },
           {
             "Lot Number": "A55",
@@ -2214,7 +2214,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A55.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A55",
           },
           {
             "Lot Number": "0310",
@@ -2224,7 +2224,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0310.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0310",
           },
           {
             "Lot Number": "0311",
@@ -2234,7 +2234,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0311.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0311",
           },
           {
             "Lot Number": "0156",
@@ -2244,7 +2244,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 20,
             "image": "/images/auctions/6/0156.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0156",
           },
           {
             "Lot Number": "A56",
@@ -2254,7 +2254,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A56.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A56",
           },
           {
             "Lot Number": "0312",
@@ -2264,7 +2264,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0312.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0312",
           },
           {
             "Lot Number": "0313",
@@ -2274,7 +2274,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0313.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0313",
           },
           {
             "Lot Number": "0157",
@@ -2284,7 +2284,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0157.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0157",
           },
           {
             "Lot Number": "A57",
@@ -2294,7 +2294,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A57.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A57",
           },
           {
             "Lot Number": "0314",
@@ -2304,7 +2304,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0314.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0314",
           },
           {
             "Lot Number": "0315",
@@ -2314,7 +2314,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0315.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0315",
           },
           {
             "Lot Number": "0158",
@@ -2324,7 +2324,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0158.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0158",
           },
           {
             "Lot Number": "A58",
@@ -2334,7 +2334,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A58.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A58",
           },
           {
             "Lot Number": "0316",
@@ -2344,7 +2344,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0316.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0316",
           },
           {
             "Lot Number": "0317",
@@ -2354,7 +2354,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0317.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0317",
           },
           {
             "Lot Number": "0159",
@@ -2364,7 +2364,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0159.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0159",
           },
           {
             "Lot Number": "A59",
@@ -2374,7 +2374,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A59.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A59",
           },
           {
             "Lot Number": "0318",
@@ -2384,7 +2384,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0318.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0318",
           },
           {
             "Lot Number": "0319",
@@ -2394,7 +2394,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0319.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0319",
           },
           {
             "Lot Number": "0160",
@@ -2404,7 +2404,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0160.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0160",
           },
           {
             "Lot Number": "A60",
@@ -2414,7 +2414,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A60.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A60",
           },
           {
             "Lot Number": "0320",
@@ -2424,7 +2424,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0320.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0320",
           },
           {
             "Lot Number": "0321",
@@ -2434,7 +2434,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0321.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0321",
           },
           {
             "Lot Number": "0161",
@@ -2444,7 +2444,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0161.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0161",
           },
           {
             "Lot Number": "A61",
@@ -2454,7 +2454,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A61.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A61",
           },
           {
             "Lot Number": "0322",
@@ -2464,7 +2464,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0322.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0322",
           },
           {
             "Lot Number": "0323",
@@ -2474,7 +2474,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0323.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0323",
           },
           {
             "Lot Number": "0162",
@@ -2484,7 +2484,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0162.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0162",
           },
           {
             "Lot Number": "A62",
@@ -2494,7 +2494,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A62.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A62",
           },
           {
             "Lot Number": "0324",
@@ -2504,7 +2504,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0324.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0324",
           },
           {
             "Lot Number": "0325",
@@ -2514,7 +2514,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0325.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0325",
           },
           {
             "Lot Number": "0163",
@@ -2524,7 +2524,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0163.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0163",
           },
           {
             "Lot Number": "A63",
@@ -2534,7 +2534,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A63.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A63",
           },
           {
             "Lot Number": "0326",
@@ -2544,7 +2544,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0326.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0326",
           },
           {
             "Lot Number": "0327",
@@ -2554,7 +2554,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0327.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0327",
           },
           {
             "Lot Number": "0164",
@@ -2564,7 +2564,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0164.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0164",
           },
           {
             "Lot Number": "A64",
@@ -2574,7 +2574,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A64.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A64",
           },
           {
             "Lot Number": "0328",
@@ -2584,7 +2584,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 45,
             "image": "/images/auctions/5/0328.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0328",
           },
           {
             "Lot Number": "0329",
@@ -2594,7 +2594,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0329.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0329",
           },
           {
             "Lot Number": "0165",
@@ -2604,7 +2604,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0165.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0165",
           },
           {
             "Lot Number": "A65",
@@ -2614,7 +2614,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A65.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A65",
           },
           {
             "Lot Number": "0330",
@@ -2624,7 +2624,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0330.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0330",
           },
           {
             "Lot Number": "0331",
@@ -2634,7 +2634,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0331.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0331",
           },
           {
             "Lot Number": "0166",
@@ -2644,7 +2644,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 300,
             "image": "/images/auctions/6/0166.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0166",
           },
           {
             "Lot Number": "A66",
@@ -2654,7 +2654,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 40,
             "image": "/images/auctions/4/A66.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A66",
           },
           {
             "Lot Number": "0332",
@@ -2664,7 +2664,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0332.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0332",
           },
           {
             "Lot Number": "0333",
@@ -2674,7 +2674,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0333.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0333",
           },
           {
             "Lot Number": "0167",
@@ -2684,7 +2684,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/6/0167.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0167",
           },
           {
             "Lot Number": "A67",
@@ -2694,7 +2694,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/4/A67.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A67",
           },
           {
             "Lot Number": "0334",
@@ -2704,7 +2704,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0334.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0334",
           },
           {
             "Lot Number": "0335",
@@ -2714,7 +2714,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0335.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0335",
           },
           {
             "Lot Number": "0168",
@@ -2724,7 +2724,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/6/0168.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0168",
           },
           {
             "Lot Number": "A68",
@@ -2734,7 +2734,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 100,
             "image": "/images/auctions/4/A68.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A68",
           },
           {
             "Lot Number": "0336",
@@ -2744,7 +2744,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0336.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0336",
           },
           {
             "Lot Number": "0337",
@@ -2754,7 +2754,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0337.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0337",
           },
           {
             "Lot Number": "0169",
@@ -2764,7 +2764,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0169.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0169",
           },
           {
             "Lot Number": "A69",
@@ -2774,7 +2774,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/4/A69.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A69",
           },
           {
             "Lot Number": "0338",
@@ -2784,7 +2784,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0338.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0338",
           },
           {
             "Lot Number": "0339",
@@ -2794,7 +2794,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0339.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0339",
           },
           {
             "Lot Number": "0170",
@@ -2804,7 +2804,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0170.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0170",
           },
           {
             "Lot Number": "A70",
@@ -2814,7 +2814,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/4/A70.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A70",
           },
           {
             "Lot Number": "0340",
@@ -2824,7 +2824,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0340.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0340",
           },
           {
             "Lot Number": "0341",
@@ -2834,7 +2834,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0341.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0341",
           },
           {
             "Lot Number": "0171",
@@ -2844,7 +2844,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0171.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0171",
           },
           {
             "Lot Number": "A71",
@@ -2854,7 +2854,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/4/A71.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A71",
           },
           {
             "Lot Number": "0342",
@@ -2864,7 +2864,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0342.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0342",
           },
           {
             "Lot Number": "0343",
@@ -2874,7 +2874,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0343.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0343",
           },
           {
             "Lot Number": "0172",
@@ -2884,7 +2884,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0172.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0172",
           },
           {
             "Lot Number": "A72",
@@ -2894,7 +2894,7 @@ export default function Home() {
             "Quantity": 5,
             "Reserve": 1,
             "image": "/images/auctions/4/A72.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A72",
           },
           {
             "Lot Number": "0344",
@@ -2904,7 +2904,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0344.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0344",
           },
           {
             "Lot Number": "0345",
@@ -2914,7 +2914,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/5/0345.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0345",
           },
           {
             "Lot Number": "0173",
@@ -2924,7 +2924,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0173.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0173",
           },
           {
             "Lot Number": "A73",
@@ -2934,7 +2934,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A73.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A73",
           },
           {
             "Lot Number": "0346",
@@ -2944,7 +2944,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0346.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0346",
           },
           {
             "Lot Number": "0347",
@@ -2954,7 +2954,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0347.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0347",
           },
           {
             "Lot Number": "0174",
@@ -2964,7 +2964,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0174.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0174",
           },
           {
             "Lot Number": "A74",
@@ -2974,7 +2974,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A74.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A74",
           },
           {
             "Lot Number": "0348",
@@ -2984,7 +2984,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0348.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0348",
           },
           {
             "Lot Number": "0349",
@@ -2994,7 +2994,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0349.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0349",
           },
           {
             "Lot Number": "0175",
@@ -3004,7 +3004,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0175.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0175",
           },
           {
             "Lot Number": "A75",
@@ -3014,7 +3014,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A75.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A75",
           },
           {
             "Lot Number": "0350",
@@ -3024,7 +3024,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0350.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0350",
           },
           {
             "Lot Number": "0351",
@@ -3034,7 +3034,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0351.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0351",
           },
           {
             "Lot Number": "0176",
@@ -3044,7 +3044,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0176.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0176",
           },
           {
             "Lot Number": "A76",
@@ -3054,7 +3054,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A76.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A76",
           },
           {
             "Lot Number": "0352",
@@ -3064,7 +3064,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0352.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0352",
           },
           {
             "Lot Number": "0353",
@@ -3074,7 +3074,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0353.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0353",
           },
           {
             "Lot Number": "0177",
@@ -3084,7 +3084,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0177.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0177",
           },
           {
             "Lot Number": "A77",
@@ -3094,7 +3094,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A77.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A77",
           },
           {
             "Lot Number": "0354",
@@ -3104,7 +3104,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0354.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0354",
           },
           {
             "Lot Number": "0355",
@@ -3114,7 +3114,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0355.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0355",
           },
           {
             "Lot Number": "0178",
@@ -3124,7 +3124,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0178.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0178",
           },
           {
             "Lot Number": "A78",
@@ -3134,7 +3134,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A78.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A78",
           },
           {
             "Lot Number": "0356",
@@ -3144,7 +3144,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0356.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0356",
           },
           {
             "Lot Number": "0357",
@@ -3154,7 +3154,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0357.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0357",
           },
           {
             "Lot Number": "0179",
@@ -3164,7 +3164,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0179.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0179",
           },
           {
             "Lot Number": "A79",
@@ -3174,7 +3174,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A79.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A79",
           },
           {
             "Lot Number": "0358",
@@ -3184,7 +3184,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0358.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0358",
           },
           {
             "Lot Number": "0359",
@@ -3194,7 +3194,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0359.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0359",
           },
           {
             "Lot Number": "0180",
@@ -3204,7 +3204,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0180.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0180",
           },
           {
             "Lot Number": "A80",
@@ -3214,7 +3214,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 8,
             "image": "/images/auctions/4/A80.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A80",
           },
           {
             "Lot Number": "0360",
@@ -3224,7 +3224,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0360.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0360",
           },
           {
             "Lot Number": "0361",
@@ -3234,7 +3234,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0361.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0361",
           },
           {
             "Lot Number": "0181",
@@ -3244,7 +3244,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0181.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0181",
           },
           {
             "Lot Number": "A81",
@@ -3254,7 +3254,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A81.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A81",
           },
           {
             "Lot Number": "0362",
@@ -3264,7 +3264,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0362.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0362",
           },
           {
             "Lot Number": "0363",
@@ -3274,7 +3274,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0363.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0363",
           },
           {
             "Lot Number": "0182",
@@ -3284,7 +3284,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0182.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0182",
           },
           {
             "Lot Number": "A82",
@@ -3294,7 +3294,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A82.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A82",
           },
           {
             "Lot Number": "0364",
@@ -3304,7 +3304,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0364.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0364",
           },
           {
             "Lot Number": "0365",
@@ -3314,7 +3314,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0365.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0365",
           },
           {
             "Lot Number": "0183",
@@ -3324,7 +3324,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0183.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0183",
           },
           {
             "Lot Number": "A83",
@@ -3334,7 +3334,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A83.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A83",
           },
           {
             "Lot Number": "0366",
@@ -3344,7 +3344,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0366.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0366",
           },
           {
             "Lot Number": "0367",
@@ -3354,7 +3354,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0367.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0367",
           },
           {
             "Lot Number": "0184",
@@ -3364,7 +3364,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0184.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0184",
           },
           {
             "Lot Number": "A84",
@@ -3374,7 +3374,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A84.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A84",
           },
           {
             "Lot Number": "0368",
@@ -3384,7 +3384,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0368.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0368",
           },
           {
             "Lot Number": "0369",
@@ -3394,7 +3394,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0369.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0369",
           },
           {
             "Lot Number": "0185",
@@ -3404,7 +3404,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0185.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0185",
           },
           {
             "Lot Number": "A85",
@@ -3414,7 +3414,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A85.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A85",
           },
           {
             "Lot Number": "0370",
@@ -3424,7 +3424,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0370.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0370",
           },
           {
             "Lot Number": "0371",
@@ -3434,7 +3434,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0371.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0371",
           },
           {
             "Lot Number": "0186",
@@ -3444,7 +3444,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0186.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0186",
           },
           {
             "Lot Number": "A86",
@@ -3454,7 +3454,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A86.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A86",
           },
           {
             "Lot Number": "0372",
@@ -3464,7 +3464,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0372.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0372",
           },
           {
             "Lot Number": "0373",
@@ -3474,7 +3474,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0373.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0373",
           },
           {
             "Lot Number": "0187",
@@ -3484,7 +3484,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0187.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0187",
           },
           {
             "Lot Number": "A87",
@@ -3494,7 +3494,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A87.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A87",
           },
           {
             "Lot Number": "0374",
@@ -3504,7 +3504,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0374.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0374",
           },
           {
             "Lot Number": "0375",
@@ -3514,7 +3514,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0375.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0375",
           },
           {
             "Lot Number": "0188",
@@ -3524,7 +3524,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/6/0188.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0188",
           },
           {
             "Lot Number": "A88",
@@ -3534,7 +3534,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A88.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A88",
           },
           {
             "Lot Number": "0376",
@@ -3544,7 +3544,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0376.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0376",
           },
           {
             "Lot Number": "0377",
@@ -3554,7 +3554,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0377.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0377",
           },
           {
             "Lot Number": "0189",
@@ -3564,7 +3564,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/6/0189.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0189",
           },
           {
             "Lot Number": "A89",
@@ -3574,7 +3574,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A89.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A89",
           },
           {
             "Lot Number": "0378",
@@ -3584,7 +3584,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0378.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0378",
           },
           {
             "Lot Number": "0379",
@@ -3594,7 +3594,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0379.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0379",
           },
           {
             "Lot Number": "0190",
@@ -3604,7 +3604,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/6/0190.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0190",
           },
           {
             "Lot Number": "A90",
@@ -3614,7 +3614,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A90.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A90",
           },
           {
             "Lot Number": "0380",
@@ -3624,7 +3624,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0380.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0380",
           },
           {
             "Lot Number": "0381",
@@ -3634,7 +3634,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0381.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0381",
           },
           {
             "Lot Number": "0191",
@@ -3644,7 +3644,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/6/0191.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0191",
           },
           {
             "Lot Number": "A91",
@@ -3654,7 +3654,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A91.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A91",
           },
           {
             "Lot Number": "0382",
@@ -3664,7 +3664,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0382.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0382",
           },
           {
             "Lot Number": "0383",
@@ -3674,7 +3674,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0383.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0383",
           },
           {
             "Lot Number": "0192",
@@ -3684,7 +3684,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 15,
             "image": "/images/auctions/6/0192.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0192",
           },
           {
             "Lot Number": "A92",
@@ -3694,7 +3694,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/4/A92.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A92",
           },
           {
             "Lot Number": "0384",
@@ -3704,7 +3704,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0384.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0384",
           },
           {
             "Lot Number": "0385",
@@ -3714,7 +3714,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0385.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0385",
           },
           {
             "Lot Number": "0193",
@@ -3724,7 +3724,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/6/0193.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0193",
           },
           {
             "Lot Number": "A93",
@@ -3734,7 +3734,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/4/A93.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A93",
           },
           {
             "Lot Number": "0386",
@@ -3744,7 +3744,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0386.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0386",
           },
           {
             "Lot Number": "0387",
@@ -3754,7 +3754,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0387.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0387",
           },
           {
             "Lot Number": "0194",
@@ -3764,7 +3764,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0194.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0194",
           },
           {
             "Lot Number": "A94",
@@ -3774,7 +3774,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 50,
             "image": "/images/auctions/4/A94.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A94",
           },
           {
             "Lot Number": "0388",
@@ -3784,7 +3784,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0388.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0388",
           },
           {
             "Lot Number": "0389",
@@ -3794,7 +3794,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0389.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0389",
           },
           {
             "Lot Number": "0195",
@@ -3804,7 +3804,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/6/0195.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0195",
           },
           {
             "Lot Number": "A95",
@@ -3814,7 +3814,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/4/A95.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A95",
           },
           {
             "Lot Number": "0390",
@@ -3824,7 +3824,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0390.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0390",
           },
           {
             "Lot Number": "0391",
@@ -3834,7 +3834,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0391.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0391",
           },
           {
             "Lot Number": "0196",
@@ -3844,7 +3844,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0196.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0196",
           },
           {
             "Lot Number": "A96",
@@ -3854,7 +3854,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A96.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A96",
           },
           {
             "Lot Number": "0392",
@@ -3864,7 +3864,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0392.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0392",
           },
           {
             "Lot Number": "0393",
@@ -3874,7 +3874,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0393.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0393",
           },
           {
             "Lot Number": "0197",
@@ -3884,7 +3884,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0197.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0197",
           },
           {
             "Lot Number": "A97",
@@ -3894,7 +3894,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A97.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A97",
           },
           {
             "Lot Number": "0394",
@@ -3904,7 +3904,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0394.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0394",
           },
           {
             "Lot Number": "0395",
@@ -3914,7 +3914,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0395.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0395",
           },
           {
             "Lot Number": "0198",
@@ -3924,7 +3924,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0198.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0198",
           },
           {
             "Lot Number": "A98",
@@ -3934,7 +3934,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/4/A98.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A98",
           },
           {
             "Lot Number": "0396",
@@ -3944,7 +3944,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0396.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0396",
           },
           {
             "Lot Number": "0397",
@@ -3954,7 +3954,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0397.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0397",
           },
           {
             "Lot Number": "0199",
@@ -3964,7 +3964,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0199.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0199",
           },
           {
             "Lot Number": "A99",
@@ -3974,7 +3974,7 @@ export default function Home() {
             "Quantity": "Mystery Third Book",
             "Reserve": 5,
             "image": "/images/auctions/4/A99.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A99",
           },
           {
             "Lot Number": "0398",
@@ -3984,7 +3984,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/5/0398.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0398",
           },
           {
             "Lot Number": "0399",
@@ -3994,7 +3994,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/5/0399.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0399",
           },
           {
             "Lot Number": "0200",
@@ -4004,7 +4004,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/6/0200.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Susan-Payne-Estate/event-catalog/247948#lot-image-0200",
           },
           {
             "Lot Number": "A100",
@@ -4014,7 +4014,7 @@ export default function Home() {
             "Quantity": 5,
             "Reserve": 1,
             "image": "/images/auctions/4/A100.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/Vintage-and-modern-colletibles/event-catalog/247083#lot-image-A100",
           },
           {
             "Lot Number": "0400",
@@ -4024,7 +4024,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/5/0400.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION/event-catalog/247504#lot-image-0400",
           },
         ],
         onOpen: onOpen,
