@@ -10,10 +10,10 @@ export default function Home() {
       title: 'About - DJ\'s Auction House',
       description: 'DJ\'s Auction House is auctioning everything from VHS\'s to hot wheels click on a link and bid now.',
       image: {
-        src: '/images/home/hero.jpg',
-        alt: 'Hero',
-        width: 589,
-        height: 295,
+        src: '/images/favicon.png',
+        alt: 'DJ\'s Auction House',
+        width: 1024,
+        height: 1024,
       },
     },
     hero: {

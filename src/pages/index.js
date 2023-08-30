@@ -12,10 +12,10 @@ export default function Home() {
       title: 'DJ\'s Auction House',
       description: 'DJ\'s Auction House is selling everything you could possibly need or want! Get in quick to see our latest items!',
       image: {
-        src: '/images/home/hero.jpg',
-        alt: 'Hero',
-        width: 589,
-        height: 295,
+        src: '/images/favicon.png',
+        alt: 'DJ\'s Auction House',
+        width: 1024,
+        height: 1024,
       },
     },
     hero: {

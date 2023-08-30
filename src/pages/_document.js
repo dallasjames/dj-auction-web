@@ -13,6 +13,7 @@ export default function Document() {
         <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
 
         {/* Favicon */}
+        <link rel="shortcut icon" href="/images/favicon.ico" />
         <link rel="shortcut icon" href={BASE_URL + "/favicon.ico"} type="image/x-icon" />
         <link rel="icon" href={BASE_URL + "/favicon-16x16.png"} sizes="16x16" />
         <link rel="icon" href={BASE_URL + "/favicon-32x32.png"} sizes="32x32" />
