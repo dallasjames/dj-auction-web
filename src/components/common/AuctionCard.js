@@ -30,8 +30,20 @@ export default function AuctionCard(props) {
           perspective: 1000px;
           
           @include respond-to('md') {
-            width: calc(33% - 20px);
+            width: calc(50% - 25px);
             margin: 0 0 20px 20px;
+          }
+
+          @include respond-to('lg') {
+            width: calc(33% - 25px);
+          }
+
+          @include respond-to('xl') {
+            width: calc(25% - 25px);
+          }
+
+          @include respond-to('xxl') {
+            width: calc(20% - 25px);
           }
 
           &:hover {
