@@ -33,7 +33,7 @@ export default function Home() {
             "Starting Bid": 100,
             "Quantity": 1,
             "Reserve": 150,
-            "image": "/images/auctions/7/0401.jpg",
+            "image": "/images/auctions/7/0401-1.jpg",
             "href": "https://www.proxibid.com/DJ-Auctions-LLC/LEGENDS-OF-THE-BALL-AUCTION-6-FOOTBALL-CARDS/event-catalog/248763#lot-image-0401",
           },
           {
