@@ -2474,7 +2474,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0301.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0301",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0301",
           },
           {
             "Lot Number": "0302",
@@ -2484,7 +2484,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 20,
             "image": "/images/auctions/8/0302.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0302",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0302",
           },
           {
             "Lot Number": "0303",
@@ -2494,7 +2494,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/8/0303.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0303",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0303",
           },
           {
             "Lot Number": "0304",
@@ -2504,7 +2504,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0304.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0304",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0304",
           },
           {
             "Lot Number": "0305",
@@ -2514,7 +2514,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0305.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0305",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0305",
           },
           {
             "Lot Number": "0306",
@@ -2524,7 +2524,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0306.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0306",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0306",
           },
           {
             "Lot Number": "0307",
@@ -2534,7 +2534,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0307.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0307",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0307",
           },
           {
             "Lot Number": "0308",
@@ -2544,7 +2544,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0308.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0308",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0308",
           },
           {
             "Lot Number": "0309",
@@ -2554,7 +2554,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0309.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0309",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0309",
           },
           {
             "Lot Number": "0310",
@@ -2564,7 +2564,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0310.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0310",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0310",
           },
           {
             "Lot Number": "0311",
@@ -2574,7 +2574,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0311.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0311",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0311",
           },
           {
             "Lot Number": "0312",
@@ -2584,7 +2584,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0312.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0312",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0312",
           },
           {
             "Lot Number": "0313",
@@ -2594,7 +2594,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0313.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0313",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0313",
           },
           {
             "Lot Number": "0314",
@@ -2604,7 +2604,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0314.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0314",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0314",
           },
           {
             "Lot Number": "0315",
@@ -2614,7 +2614,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0315.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0315",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0315",
           },
           {
             "Lot Number": "0316",
@@ -2624,7 +2624,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0316.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0316",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0316",
           },
           {
             "Lot Number": "0317",
@@ -2634,7 +2634,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0317.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0317",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0317",
           },
           {
             "Lot Number": "0318",
@@ -2644,7 +2644,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0318.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0318",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0318",
           },
           {
             "Lot Number": "0319",
@@ -2654,7 +2654,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0319.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0319",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0319",
           },
           {
             "Lot Number": "0320",
@@ -2664,7 +2664,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0320.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0320",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0320",
           },
           {
             "Lot Number": "0321",
@@ -2674,7 +2674,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0321.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0321",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0321",
           },
           {
             "Lot Number": "0322",
@@ -2684,7 +2684,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0322.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0322",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0322",
           },
           {
             "Lot Number": "0323",
@@ -2694,7 +2694,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0323.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0323",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0323",
           },
           {
             "Lot Number": "0324",
@@ -2704,7 +2704,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0324.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0324",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0324",
           },
           {
             "Lot Number": "0325",
@@ -2714,7 +2714,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0325.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0325",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0325",
           },
           {
             "Lot Number": "0326",
@@ -2724,7 +2724,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0326.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0326",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0326",
           },
           {
             "Lot Number": "0327",
@@ -2734,7 +2734,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0327.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0327",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0327",
           },
           {
             "Lot Number": "0328",
@@ -2744,7 +2744,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 45,
             "image": "/images/auctions/8/0328.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0328",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0328",
           },
           {
             "Lot Number": "0329",
@@ -2754,7 +2754,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0329.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0329",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0329",
           },
           {
             "Lot Number": "0330",
@@ -2764,7 +2764,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0330.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0330",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0330",
           },
           {
             "Lot Number": "0331",
@@ -2774,7 +2774,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0331.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0331",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0331",
           },
           {
             "Lot Number": "0332",
@@ -2784,7 +2784,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0332.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0332",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0332",
           },
           {
             "Lot Number": "0333",
@@ -2794,7 +2794,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0333.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0333",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0333",
           },
           {
             "Lot Number": "0334",
@@ -2804,7 +2804,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0334.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0334",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0334",
           },
           {
             "Lot Number": "0335",
@@ -2814,7 +2814,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0335.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0335",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0335",
           },
           {
             "Lot Number": "0336",
@@ -2824,7 +2824,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0336.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0336",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0336",
           },
           {
             "Lot Number": "0337",
@@ -2834,7 +2834,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0337.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0337",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0337",
           },
           {
             "Lot Number": "0338",
@@ -2844,7 +2844,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0338.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0338",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0338",
           },
           {
             "Lot Number": "0339",
@@ -2854,7 +2854,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0339.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0339",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0339",
           },
           {
             "Lot Number": "0340",
@@ -2864,7 +2864,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0340.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0340",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0340",
           },
           {
             "Lot Number": "0341",
@@ -2874,7 +2874,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0341.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0341",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0341",
           },
           {
             "Lot Number": "0342",
@@ -2884,7 +2884,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0342.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0342",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0342",
           },
           {
             "Lot Number": "0343",
@@ -2894,7 +2894,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0343.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0343",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0343",
           },
           {
             "Lot Number": "0344",
@@ -2904,7 +2904,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0344.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0344",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0344",
           },
           {
             "Lot Number": "0345",
@@ -2914,7 +2914,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0345.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0345",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0345",
           },
           {
             "Lot Number": "0346",
@@ -2924,7 +2924,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0346.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0346",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0346",
           },
           {
             "Lot Number": "0347",
@@ -2934,7 +2934,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0347.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0347",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0347",
           },
           {
             "Lot Number": "0348",
@@ -2944,7 +2944,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0348.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0348",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0348",
           },
           {
             "Lot Number": "0349",
@@ -2954,7 +2954,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0349.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0349",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0349",
           },
           {
             "Lot Number": "0350",
@@ -2964,7 +2964,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0350.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0350",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0350",
           },
           {
             "Lot Number": "0351",
@@ -2974,7 +2974,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0351.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0351",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0351",
           },
           {
             "Lot Number": "0352",
@@ -2984,7 +2984,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0352.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0352",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0352",
           },
           {
             "Lot Number": "0353",
@@ -2994,7 +2994,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0353.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0353",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0353",
           },
           {
             "Lot Number": "0354",
@@ -3004,7 +3004,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0354.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0354",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0354",
           },
           {
             "Lot Number": "0355",
@@ -3014,7 +3014,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0355.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0355",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0355",
           },
           {
             "Lot Number": "0356",
@@ -3024,7 +3024,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0356.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0356",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0356",
           },
           {
             "Lot Number": "0357",
@@ -3034,7 +3034,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0357.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0357",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0357",
           },
           {
             "Lot Number": "0358",
@@ -3044,7 +3044,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0358.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0358",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0358",
           },
           {
             "Lot Number": "0359",
@@ -3054,7 +3054,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0359.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0359",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0359",
           },
           {
             "Lot Number": "0360",
@@ -3064,7 +3064,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0360.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0360",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0360",
           },
           {
             "Lot Number": "0361",
@@ -3074,7 +3074,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0361.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0361",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0361",
           },
           {
             "Lot Number": "0362",
@@ -3084,7 +3084,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0362.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0362",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0362",
           },
           {
             "Lot Number": "0363",
@@ -3094,7 +3094,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0363.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0363",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0363",
           },
           {
             "Lot Number": "0364",
@@ -3104,7 +3104,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0364.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0364",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0364",
           },
           {
             "Lot Number": "0365",
@@ -3114,7 +3114,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0365.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0365",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0365",
           },
           {
             "Lot Number": "0366",
@@ -3124,7 +3124,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0366.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0366",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0366",
           },
           {
             "Lot Number": "0367",
@@ -3134,7 +3134,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0367.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0367",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0367",
           },
           {
             "Lot Number": "0368",
@@ -3144,7 +3144,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0368.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0368",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0368",
           },
           {
             "Lot Number": "0369",
@@ -3154,7 +3154,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0369.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0369",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0369",
           },
           {
             "Lot Number": "0370",
@@ -3164,7 +3164,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0370.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0370",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0370",
           },
           {
             "Lot Number": "0371",
@@ -3174,7 +3174,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0371.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0371",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0371",
           },
           {
             "Lot Number": "0372",
@@ -3184,7 +3184,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0372.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0372",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0372",
           },
           {
             "Lot Number": "0373",
@@ -3194,7 +3194,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0373.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0373",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0373",
           },
           {
             "Lot Number": "0374",
@@ -3204,7 +3204,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0374.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0374",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0374",
           },
           {
             "Lot Number": "0375",
@@ -3214,7 +3214,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0375.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0375",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0375",
           },
           {
             "Lot Number": "0376",
@@ -3224,7 +3224,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0376.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0376",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0376",
           },
           {
             "Lot Number": "0377",
@@ -3234,7 +3234,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0377.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0377",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0377",
           },
           {
             "Lot Number": "0378",
@@ -3244,7 +3244,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0378.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0378",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0378",
           },
           {
             "Lot Number": "0379",
@@ -3254,7 +3254,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0379.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0379",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0379",
           },
           {
             "Lot Number": "0380",
@@ -3264,7 +3264,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0380.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0380",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0380",
           },
           {
             "Lot Number": "0381",
@@ -3274,7 +3274,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0381.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0381",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0381",
           },
           {
             "Lot Number": "0382",
@@ -3284,7 +3284,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0382.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0382",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0382",
           },
           {
             "Lot Number": "0383",
@@ -3294,7 +3294,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0383.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0383",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0383",
           },
           {
             "Lot Number": "0384",
@@ -3304,7 +3304,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0384.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0384",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0384",
           },
           {
             "Lot Number": "0385",
@@ -3314,7 +3314,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0385.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0385",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0385",
           },
           {
             "Lot Number": "0386",
@@ -3324,7 +3324,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0386.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0386",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0386",
           },
           {
             "Lot Number": "0387",
@@ -3334,7 +3334,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0387.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0387",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0387",
           },
           {
             "Lot Number": "0388",
@@ -3344,7 +3344,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0388.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0388",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0388",
           },
           {
             "Lot Number": "0389",
@@ -3354,7 +3354,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0389.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0389",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0389",
           },
           {
             "Lot Number": "0390",
@@ -3364,7 +3364,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0390.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0390",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0390",
           },
           {
             "Lot Number": "0391",
@@ -3374,7 +3374,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0391.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0391",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0391",
           },
           {
             "Lot Number": "0392",
@@ -3384,7 +3384,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0392.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0392",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0392",
           },
           {
             "Lot Number": "0393",
@@ -3394,7 +3394,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0393.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0393",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0393",
           },
           {
             "Lot Number": "0394",
@@ -3404,7 +3404,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0394.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0394",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0394",
           },
           {
             "Lot Number": "0395",
@@ -3414,7 +3414,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0395.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0395",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0395",
           },
           {
             "Lot Number": "0396",
@@ -3424,7 +3424,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0396.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0396",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0396",
           },
           {
             "Lot Number": "0397",
@@ -3434,7 +3434,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0397.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0397",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0397",
           },
           {
             "Lot Number": "0398",
@@ -3444,7 +3444,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 5,
             "image": "/images/auctions/8/0398.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0398",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0398",
           },
           {
             "Lot Number": "0399",
@@ -3454,7 +3454,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 10,
             "image": "/images/auctions/8/0399.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0399",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0399",
           },
           {
             "Lot Number": "0400",
@@ -3464,7 +3464,7 @@ export default function Home() {
             "Quantity": 1,
             "Reserve": 25,
             "image": "/images/auctions/8/0400.jpg",
-            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100#lot-image-0400",
+            "href": "https://www.proxibid.com/DJ-Auctions-LLC/BOYZ-AND-THEIR-TOYZ-COMIC-BOOK-AUCTION-II/event-catalog/249132?ipp=100&p=2#lot-image-0400",
           },
         ],
         onOpen: onOpen,
