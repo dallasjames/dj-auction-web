@@ -32,7 +32,12 @@ export default function AuctionCollapsible(props) {
           <img className={open ? 'open' : ''} src='/images/auctions/arrow.svg' alt='arrow' />
         </a>
         <Collapsible active={open}>
-          <AuctionMap auctions={auctions} keyname={keyname}/>
+          {auctions?.length > 0 && 
+            <AuctionMap auctions={auctions} keyname={keyname}/>
+          }
+          {(!auctions || auctions.length < 1) &&
+            <h3 className="none">No Current Auctions</h3>            
+          }
         </Collapsible>
       </div>
 
@@ -44,6 +49,16 @@ export default function AuctionCollapsible(props) {
           height: auto;
 
           .inner {
+            
+            h3 {
+              @include font-bold;
+              font-size: 28px;
+              color: $color-black;
+
+              @include respond-to('md') {
+                font-size: 40px;
+              }
+            }
 
             .title-container {
               margin-bottom: 20px;
@@ -51,15 +66,6 @@ export default function AuctionCollapsible(props) {
               align-items: center;
               text-decoration: none;
 
-              h3 {
-                @include font-bold;
-                font-size: 28px;
-                color: $color-black;
-
-                @include respond-to('md') {
-                  font-size: 40px;
-                }
-              }
 
               img {
                 width: 24px;
@@ -73,7 +79,6 @@ export default function AuctionCollapsible(props) {
                 }
               }
             }
-
           }
         }
       `}</style>
